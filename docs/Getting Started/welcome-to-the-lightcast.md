@@ -14,6 +14,14 @@ metadata:
 
 ## Metrics
 
+| Lightcast data metrics | Values |
+
+| :------ | :------- |
+
+| Total Datasets | 50 | 
+
+| Total Data points | >18 Billions |
+
 ## Data Governance and Quality
 
 ## Helpful Links
