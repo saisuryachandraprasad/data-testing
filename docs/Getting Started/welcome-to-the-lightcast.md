@@ -23,7 +23,7 @@ You can access our datasets in one of the following ways.
     *Have a look on our API reference doc*
   </Card>
 
-  <Card title="Data Delivery package" href="https://docs.lightcast.io/lightcast-api/reference/api-introduction" icon="fa-star" target="_blank">
+  <Card title="Data Delivery package" href="https://docs.lightcast.io/lightcast-api/docs/introduction" icon="fa-star" target="_blank">
     > *One line description*
   </Card>
 </Cards>
