@@ -14,13 +14,17 @@ metadata:
 
 ## Metrics
 
-| Lightcast data metrics | Values |
+<br />
 
-| :------ | :------- |
+| Lightcast Data metrics    | Values       |
+| :------------------------ | :----------- |
+| Total Datasets            | 50           |
+| Total Data points         | >18 Billions |
+| Average update frequency  | Monthly      |
+| Global coverage           | 20 countries |
+| Can be extended.......... |              |
 
-| Total Datasets | 50 | 
-
-| Total Data points | >18 Billions |
+<br />
 
 ## Data Governance and Quality
 
