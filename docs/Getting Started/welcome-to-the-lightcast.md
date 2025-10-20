@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Lightcast
+title: Welcome to Lightcast
 deprecated: false
 hidden: false
 metadata:
