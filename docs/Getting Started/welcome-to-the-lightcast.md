@@ -14,8 +14,6 @@ metadata:
 
 ## Metrics
 
-<br />
-
 | Lightcast Data metrics    | Values       |
 | :------------------------ | :----------- |
 | Total Datasets            | 50           |
