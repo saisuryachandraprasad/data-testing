@@ -16,4 +16,4 @@ metadata:
 
 ## Data Governance and Quality
 
-## Heplful Links
+## Helpful Links
