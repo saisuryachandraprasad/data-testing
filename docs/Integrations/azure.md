@@ -1,5 +1,5 @@
 ---
-title: Azure
+title: Azure Blob Storage
 deprecated: false
 hidden: false
 metadata:
