@@ -12,6 +12,23 @@ metadata:
 
 ## Access Methods
 
+You can access our datasets in one of the following ways.
+
+<Cards columns={3}>
+  <Card title="Optional" href="https://readme.com" icon="fa-home" target="_blank">
+    Neque porro quisquam est qui dolorem ipsum quia
+  </Card>
+
+  <Card title="API" icon="fa-user">
+    *Lorem ipsum dolor sit amet, consectetur adipiscing elit*
+  </Card>
+
+  <Card title="Data Delivery package" icon="fa-star">
+    > Ut enim ad minim veniam, quis nostrud ullamco
+  </Card>
+ 
+</Cards>
+
 ## Metrics
 
 | Lightcast Data metrics    | Values       |
