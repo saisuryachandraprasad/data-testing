@@ -12,8 +12,6 @@ You can access our data through **Data Shares**, **Datasets**, or **APIs** to an
 
 ## Key Features
 
-## Categories
-
 ## Access Methods
 
 You can access our datasets in one of the following ways.
