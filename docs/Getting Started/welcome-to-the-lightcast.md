@@ -44,4 +44,6 @@ You can access our datasets in one of the following ways.
 
 ## Data Governance and Quality
 
+Here is Lightcast's data governance and quality policy, demonstrating our commitment to security and quality, which helps to build trust with customers.
+
 ## Helpful Links
