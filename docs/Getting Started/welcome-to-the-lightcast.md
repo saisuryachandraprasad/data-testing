@@ -6,6 +6,10 @@ hidden: false
 metadata:
   robots: index
 ---
+**Lightcast **provides leading labour market intelligence and comprehensive data solutions that empower enterprises, educational institutions, and government organisations with actionable insights for workforce planning and management.
+
+You can access our data through **Data Shares**, **Datasets**, or **APIs** to analyse and understand workforce trends. Whether you’re integrating our APIs or exploring datasets and data shares, this portal guides you every step of the way.
+
 ## Key Features
 
 ## Categories
