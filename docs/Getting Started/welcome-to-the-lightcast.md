@@ -19,7 +19,7 @@ You can access our data through **Data Shares**, **Datasets**, or **APIs** to an
 You can access our datasets in one of the following ways.
 
 <Cards columns={3}>
-  <Card title="Data shares" href="https://docs.lightcast.io/lightcast-api/docs/introduction" icon="fa-home" target="_blank">
+  <Card title="Data shares" href="https://data-testing.readme.io/docs/overview#/" icon="fa-home" target="_blank">
     Neque porro quisquam est qui dolorem ipsum quia
   </Card>
 
