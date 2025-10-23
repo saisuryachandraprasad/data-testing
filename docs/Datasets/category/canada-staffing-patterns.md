@@ -44,11 +44,9 @@ The dataset reflects the latest available data from Labor Force Survey (LFS) and
 You can access the dataset by one of following methods.
 
 <Cards columns={2}>
-  <Card title="Data Shares Option"  icon="fa-home" >    
-  </Card>
+  <Card title="Data Shares Option" icon="fa-computer-classic" />
 
-  <Card title="API" icon="fa-user">   
-  </Card> 
+  <Card title="API" icon="fa-computer-classic" />
 </Cards>
 
- 
+<br />
